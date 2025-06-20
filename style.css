@@ -1,16 +1,18 @@
+<style>
 body {
-  background: lightcyan;
-  width: 800px;
-  margin: auto;
+	background: lightcyan;
+	width: 800px;
+	margin: auto;
 }
 
-h1{
-  color: maroon;
-  text-align: center;
+h1 {
+	color: maroon;
+	text-align: center;
 }
 
-p{
-  color:gray;
-  border: 1px solid gray;
-  padding: 10px;
+p {
+	color: gray;
+	border: 1px solid gray;
+	padding: 10px;
 }
+</style>
